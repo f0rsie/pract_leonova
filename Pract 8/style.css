@@ -1,0 +1,21 @@
+ul.circle {
+    list-style-type: circle;
+}
+ul.square {
+    list-style-type: square;
+}
+#l_l {
+    list-style-type: lower-latin;
+}
+#u_l {
+    list-style-type: upper-latin;
+}
+#l_r {
+    list-style-type: lower-roman;
+}
+#u_r {
+    list-style-type: upper-roman;
+}
+li ul {
+    list-style-type: square;
+}

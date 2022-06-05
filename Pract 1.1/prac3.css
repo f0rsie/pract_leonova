@@ -1,0 +1,25 @@
+p, h1 {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+p.left, p.right {
+    border: 6px;
+    border-style: groove;
+    border-color: silver;
+    padding: 15px;
+    font-size: 0.9em;
+    width: 350px;
+}
+p.left {
+    float: left;
+    margin-right: 0%;
+    color: navy;
+}
+p.right {
+    float: right;
+    margin-left: 0%;
+    color: green;
+}
+p.left:first-letter, p.right:first-letter {
+    font-size: 1.8em;
+}

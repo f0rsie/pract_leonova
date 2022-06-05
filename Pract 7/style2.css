@@ -1,0 +1,25 @@
+body {
+    background-color: #6eb8ef;
+}
+table {
+    margin: auto;
+    border: ridge 5px white;
+}
+td.w200 {
+    width: 200px;
+    vertical-align: top;
+    background-color: #99ccff;
+}
+td.w50 {
+    width: 50px;
+}
+td.w5 {
+    width: 5px;
+    background-color: #ffffff;
+}
+table.white {
+    border-width: 1px;
+}
+table.white tr {
+    background-color: #ffffff;
+}

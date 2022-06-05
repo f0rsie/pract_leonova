@@ -1,0 +1,29 @@
+ul.menu {
+    list-style: none;
+    width: 150px;
+}
+ul.menu li {
+    padding: 10px;
+    border: 3px outset #cecece;
+    margin-bottom: 5px;
+}
+a {
+    color: #1d0693;
+    text-decoration: none;
+    text-shadow: 1px 1px 1px black;
+}
+a:link {
+    color: #15afea;
+}
+a:visited {
+    color: #cecece;
+}
+a:active {
+    color: #339999;
+}
+a:hover {
+    color: #1d0693;
+}
+ul.menu li:hover {
+    background-color: #afc4e0;
+}

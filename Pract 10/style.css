@@ -1,0 +1,37 @@
+aside {
+    margin: auto;
+    width: 10%;
+}
+aside.right {
+    float: right;
+}
+aside.left {
+    float: left;
+}
+footer {
+    margin: auto;
+    width: 40%;
+}
+footer.right {
+    float: right;
+}
+footer.left {
+    float: left;
+}
+div {
+    margin: auto;
+}
+div.center {
+    text-align: center;
+}
+header {
+    margin: auto;
+    text-align: center;
+    background: url(Techies.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+body {
+    font-family: Arial;
+    font-size: 1.2em;
+}

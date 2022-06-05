@@ -1,0 +1,29 @@
+#b1 {
+    border: solid #999;
+    border-width: 3px 0;
+    margin: 10px 40px;
+    padding: 15px;
+    font-size: 14px;
+    color: #999;
+}
+
+#b2 {
+    border-left: solid 3px #333;
+    padding-left: 1px;
+    margin: 10px 40px;
+}
+
+    #b2 p {
+        border-left: solid #666 1px;
+        margin: 0;
+        padding: 15px;
+        color: #333;
+        font: 16px 'Times New Roman';
+    }
+
+#b3 {
+    margin: 10px 40px;
+    padding: 15px;
+    font: italic 14px Georgia;
+    border: solid 1px #eee
+}
